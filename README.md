@@ -33,7 +33,7 @@
 
 ## `> ABOUT_ME.exe`
 
-I'm a **Computer Science & Engineering student at BRAC University** who enjoys building software where **engineering, product thinking, and intelligent systems** meet.
+I'm an AI enthusiast who enjoys building software where **engineering, product thinking, and intelligent systems** meet.
 
 - 💻 I build **full-stack products** from interface to database and deployment.
 - 🤖 I enjoy adding **AI/ML features that solve real product problems**.
