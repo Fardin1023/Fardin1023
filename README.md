@@ -42,25 +42,14 @@ I'm a **Computer Science & Engineering student at BRAC University** who enjoys b
 - 🧠 My favorite learning loop is simple: **build → break → understand → improve → ship**.
 - 🚀 I'm open to **internships, collaborations, and research opportunities**.
 
-```ts
-const fardin = {
-  role: "Full-Stack Developer",
-  mindset: "Build → Learn → Improve → Ship",
+### `SYSTEM PROFILE`
 
-  focus: [
-    "Full-Stack Development",
-    "AI / ML",
-    "Software Engineering",
-    "Real-Time Systems",
-  ],
-
-  openTo: [
-    "Internships",
-    "Collaborations",
-    "Research Opportunities",
-  ],
-};
-```
+| ⚡ Signal | Status |
+|---|---|
+| **Role** | Full-Stack Developer |
+| **Focus** | AI/ML · Software Engineering · Real-Time Systems |
+| **Mindset** | Build → Learn → Improve → Ship |
+| **Open To** | Internships · Collaborations · Research |
 
 ---
 
@@ -145,10 +134,6 @@ Its AI layer is powered by **Google Gemini** and includes:
   />
 </p>
 
-<p align="center">
-  <sub>More stable than public stats cards, and still keeps the profile alive.</sub>
-</p>
-
 ---
 
 ## `> SNAKE_PROTOCOL.run()`
@@ -178,16 +163,13 @@ Its AI layer is powered by **Google Gemini** and includes:
 
 ## `> CURRENT_STATUS.log`
 
-```diff
-+ Building full-stack products
-+ Exploring AI/ML and intelligent software systems
-+ Improving software architecture and backend design
-+ Experimenting with real-time technologies
-
-! Open to internships
-! Open to collaborations
-! Open to research opportunities
-```
+| Status | Current Direction |
+|---|---|
+| 🟢 **Building** | Full-stack products |
+| 🧠 **Exploring** | AI/ML and intelligent software systems |
+| ⚙️ **Improving** | Software architecture and backend design |
+| ⚡ **Experimenting** | Real-time technologies |
+| 🚀 **Open To** | Internships · Collaborations · Research |
 
 ---
 
@@ -204,14 +186,9 @@ Its AI layer is powered by **Google Gemini** and includes:
   </a>
 </p>
 
-```js
-while (curious) {
-  learn();
-  build();
-  improve();
-  ship();
-}
-```
+<p align="center">
+  <code>while (curious) → learn() → build() → improve() → ship()</code>
+</p>
 
 <p align="center">
   <sub>Thanks for visiting — explore the repositories, break things, build better things. ⚡</sub>
