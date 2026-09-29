@@ -124,25 +124,18 @@ Its AI layer is powered by **Google Gemini** and includes:
   </a>
   &nbsp;
   <a href="https://github.com/Fardin1023/Aura-Mosaic-Store">
-    <img src="https://img.shields.io/badge/<>%20SOURCE%20CODE-8A2BE2?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="Aura-Mosaic Source Code" />
+    <img src="https://img.shields.io/badge/SOURCE%20CODE-8A2BE2?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="Aura-Mosaic Source Code" />
   </a>
 </p>
 
 ---
 
-## `> GITHUB_PULSE.monitor()`
+## `> GITHUB_SIGNALS.scan()`
 
 <p align="center">
-  <img
-    height="175"
-    src="https://github-readme-stats.vercel.app/api?username=Fardin1023&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F5D4&text_color=C9D1D9&icon_color=F7B32B&rank_icon=github"
-    alt="Fardin's GitHub Stats"
-  />
-  <img
-    height="175"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fardin1023&layout=compact&hide_border=true&bg_color=0D1117&title_color=9D4EDD&text_color=C9D1D9&langs_count=8"
-    alt="Fardin's Top Languages"
-  />
+  <img src="https://img.shields.io/github/followers/Fardin1023?style=for-the-badge&logo=github&label=FOLLOWERS&color=8A2BE2&labelColor=0D1117" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/Fardin1023/Aura-Mosaic-Store?style=for-the-badge&logo=github&label=AURA-MOSAIC%20STARS&color=F7B32B&labelColor=0D1117" alt="Aura-Mosaic Stars" />
+  <img src="https://img.shields.io/github/last-commit/Fardin1023/Fardin1023?style=for-the-badge&logo=github&label=PROFILE%20LAST%20UPDATE&color=00B8A9&labelColor=0D1117" alt="Profile Last Update" />
 </p>
 
 <p align="center">
@@ -152,16 +145,8 @@ Its AI layer is powered by **Google Gemini** and includes:
   />
 </p>
 
----
-
-## `> CONTRIBUTION_GRAPH.render()`
-
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Fardin1023&bg_color=0D1117&color=00F5D4&line=9D4EDD&point=F7B32B&area=true&area_color=00B8A9&hide_border=true"
-    width="100%"
-    alt="Fardin's GitHub Activity Graph"
-  />
+  <sub>More stable than public stats cards, and still keeps the profile alive.</sub>
 </p>
 
 ---
